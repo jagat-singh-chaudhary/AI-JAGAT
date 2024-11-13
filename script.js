@@ -170,4 +170,4 @@ typingForm.addEventListener("submit", (e) => {
 
 loadDataFromLocalstorage();
 
-<!-- Fetched using API by @JSOrganization and owned by @itsSowrov -->
+<!-- Fetched using API by Jagat Singh and owned by Jagat Singh -->
